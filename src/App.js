@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 
-class App extends Component {
+export default class App extends Component {
   render() {
     return (
       <h2>Start from here</h2>
